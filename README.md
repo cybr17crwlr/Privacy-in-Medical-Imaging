@@ -1,6 +1,6 @@
 # Privacy-in-Medical-Imaging
 
-- Download the Datasets using [Download Kaggle Dataset.ipynb](https://github.com/cybr17crwlr/Privacy-in-Medical-Imaging/blob/main/datasets/Download%20Kaggle%20Dataset.ipynb)
+- Download the Datasets using [Download Kaggle Dataset.ipynb](https://github.com/cybr17crwlr/Privacy-in-Medical-Imaging/blob/main/datasets/Download%20Kaggle%20Dataset.ipynb). We couldn't include a small dataset for training as the smallest dataset for considerable results is still approximately 1 GB. You can download our training dataset from the following [Google Drive link](https://drive.google.com/drive/folders/198iMVj0xTOU7-FEPhuopc2wXGnKpSCW1?usp=drive_link)
 
 - After that you can run any of the python scripts in the three folders for different kinds of models
 
