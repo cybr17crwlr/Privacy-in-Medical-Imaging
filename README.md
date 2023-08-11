@@ -14,7 +14,7 @@ The naming structure means `<feature extractor>_<input image size>_<training typ
 
 Currently there is only one featur extractor [EfficientNetv2B0](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet_v2/EfficientNetV2B0) labelled as `EFFNET`.
 
-The training types are `BS` for basestats training without differential privacy and `DP` is differentially private training.
+The training types are `BS` for basestats training without differential privacy and `DP` is differentially private training and `DP_MIA` stands for differentially private training with membership inference attacks.
 
 The training results will be stored in the `logs` folder and the training checkpoints will be stored in the `checkpoints` folder.
 
